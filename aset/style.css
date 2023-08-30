@@ -6,11 +6,13 @@
     font-family: calibri;
     font-size: 20px;
     padding: 20px;
-    background: #ebecec;
+    background: #f1f1f1;
   }
   
   /* Header/Blog Title */
   .header {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
     background-image: url(web-bg.jpg);
     background-repeat: no-repeat;
     width: 100%;
@@ -23,6 +25,8 @@
 
   /* Navbar container */
 .navbar {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 10px;
   overflow: hidden;
   background-color: #E3E3E3;
   font-family: Arial;
@@ -154,6 +158,8 @@
   
   /* Footer */
   .footer {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
     padding: 20px;
     text-align: center;
     background: #ffffff;
