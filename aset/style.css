@@ -6,7 +6,7 @@
     font-family: calibri;
     font-size: 20px;
     padding: 20px;
-    background: #cad5db;
+    background: #ebecec;
   }
   
   /* Header/Blog Title */
@@ -132,6 +132,7 @@
   
   /* Add a card effect for articles */
   .card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     background-color: white;
     padding: 20px;
     margin-top: 20px;
