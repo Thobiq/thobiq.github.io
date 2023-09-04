@@ -280,10 +280,29 @@
     background-image: linear-gradient(to right, red, purple);
   }
 
-  
+  .list-sos-yt {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border: none;
+    transition: 0.3s;
+    margin-top: 20px;
+    width: 100px;
+    height: 40px;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    border-radius: 10px;
+    background-color: #f50808;
+    color: white;
+  }
 
   .list-sos:hover {
     box-shadow: 0 8px 16px 0 rgba(204, 15, 103, 0.877);
+
+  }
+  
+
+  .list-sos-yt:hover {
+    box-shadow: 0 8px 16px 0 rgba(212, 10, 37, 0.877);
 
   }
 
